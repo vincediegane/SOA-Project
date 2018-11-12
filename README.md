@@ -47,3 +47,8 @@ free-bootstrap-admin-template/
 ## Documentation
 
 The documentation for the CoreUI Free Bootstrap Admin Template is hosted at our website [CoreUI](https://coreui.io/)
+## Creators
+
+**Vincent Diégane FAYE**
+
+* vincediegane@gmail.com
