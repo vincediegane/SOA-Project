@@ -119,7 +119,7 @@ export default {
       url: '/promotion/add',
       icon: 'icon-cursor'
     },
-    {
+    /* {
       name: 'Edit Promotion',
       url: '/promotion/edit',
       icon: 'icon-pencil'
@@ -128,7 +128,7 @@ export default {
       name: 'Detail Promotion',
       url: '/promotion/detail',
       icon: 'icon-puzzle'
-    },
+    }, */
     // Etudiants
     {
       title: true,
@@ -149,7 +149,7 @@ export default {
       url: '/etudiant/add',
       icon: 'icon-cursor'
     },
-    {
+    /* {
       name: 'Edit Etudiant',
       url: '/etudiant/edit',
       icon: 'icon-pencil'
@@ -158,7 +158,7 @@ export default {
       name: 'Detail Etudiant',
       url: '/etudiant/detail',
       icon: 'icon-puzzle'
-    },
+    }, */
     // Maquette
     /* {
       title: true,
@@ -251,14 +251,14 @@ export default {
     }, */
 
     // END
-    {
+    /* {
       divider: true
-    },
-    {
+    }, */
+    /* {
       title: true,
       name: 'Extras'
-    },
-    {
+    }, */
+    /* {
       name: 'Pages',
       url: '/pages',
       icon: 'icon-star',
@@ -284,7 +284,7 @@ export default {
           icon: 'icon-star'
         }
       ]
-    },
+    } *//* ,
     {
       name: 'Download CoreUI',
       url: 'http://coreui.io/vue/',
@@ -297,6 +297,6 @@ export default {
       url: 'http://coreui.io/pro/vue/',
       icon: 'icon-layers',
       variant: 'danger'
-    }
+    } */
   ]
 }

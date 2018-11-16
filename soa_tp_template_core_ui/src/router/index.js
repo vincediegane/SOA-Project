@@ -143,52 +143,12 @@ export default new Router({
           ] */
         },
         {
-          path: '/etudiant',
-          name: 'Etudiants',
+          path: '/promotion',
+          name: 'Promotion',
           component: {
             render (c) { return c('router-view') }
           },
           children: [
-            /* {
-              path: '/departement',
-              name: 'All departement',
-              component: IndexDepartement
-            },
-            {
-              path: '/departement/add',
-              name: 'New departement',
-              component: AddDepartement
-            },
-            {
-              path: '/departement/:id([0-9]+)/edit',
-              name: 'Edit departement',
-              component: EditDepartement
-            },
-            {
-              path: '/departement/:id([0-9]+)/detail',
-              name: 'Detail departement',
-              component: DetailDepartement
-            },
-            {
-              path: '/classe',
-              name: 'All faculte',
-              component: IndexClasse
-            },
-            {
-              path: '/classe/add',
-              name: 'New faculte',
-              component: AddClasse
-            },
-            {
-              path: '/classe/:id([0-9]+)/edit',
-              name: 'Edit faculte',
-              component: EditClasse
-            },
-            {
-              path: '/classe/:id([0-9]+)/detail',
-              name: 'Detail faculte',
-              component: DetailClasse
-            }, */
             {
               path: '/promotion',
               name: 'All promotion',
